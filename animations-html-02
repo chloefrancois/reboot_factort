@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<title>anim 01</title>
+		<link rel="stylesheet" href="_styles/styles.css" />
+		<meta charset="UTF-8" />
+	</head>
+	<body>
+
+ <a href="#popUp" id="openPopUp">Ajouter aux fav</a>
+  
+<!-- POP UP -->
+<aside id="popUp" class="popup">
+    <div class="popUpContainer">
+       <header>
+      <article>
+      	
+      </article>
+   </div>        
+   <a href="#!" class="closePopUpOutSide"></a>    
+</aside>
+
+
+
+	</body>
+	</html>
+	
+
+                                          
