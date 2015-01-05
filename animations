@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<title>anim 01</title>
+		<link rel="stylesheet" href="_styles/styles.css" />
+		<meta charset="UTF-8" />
+	</head>
+	<body>
+
+<input type="radio" name="menu-state" id="hidden" checked />
+<input type="radio" name="menu-state" id="visible" />
+
+<label class="show-menu" for="visible">Show Menu</label>
+
+<label class="overlay" for="hidden"></label>
+
+<div class="menu">
+    <label class="close-menu" for="hidden">Close Menu</label>
+</div>
+
+	</body>
+	</html>
+	
+
+                                          
